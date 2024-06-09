@@ -8,7 +8,7 @@ const projects = [
     title: "Bidcraft",
     lession: "Semester project 2",
     description:
-      "The auction website project demonstrates the ability to integrate front-end development skills with API utilization, adhering to user stories, technical constraints, and project management practices. This project is build using Bootstrap and Sass. ",
+      "The e-commerce store project demonstrates the ability to integrate front-end development skills with API utilization, adhering to user stories, technical constraints, and project management practices. This project is built using React and styled-components. ",
     build: {
       bootstrap: true,
       sass: true,
@@ -17,8 +17,8 @@ const projects = [
       css: false,
       react: false,
     },
-    netlify: "",
-    github: "",
+    netlify: "https://tubular-salmiakki-a0ca6b.netlify.app/",
+    github: "https://github.com/Ninuskaninus/SA2",
     image: bidcraft,
   },
   {
@@ -26,7 +26,7 @@ const projects = [
     title: "Trendz",
     lession: "Javascript Frameworks",
     description:
-      "The auction website project demonstrates the ability to integrate front-end development skills with API utilization, adhering to user stories, technical constraints, and project management practices. This project is build using Bootstrap and Sass. ",
+      "The auction website project demonstrates the ability to integrate front-end development skills with API utilization, adhering to user stories, technical constraints, and project management practices. This project is built using an approved CSS framework and hosted on an approved static host. ",
     build: {
       bootstrap: false,
       sass: false,
@@ -35,8 +35,8 @@ const projects = [
       css: false,
       react: true,
     },
-    netlify: "",
-    github: "",
+    netlify: "https://trendzzz.netlify.app/",
+    github: "https://github.com/Ninuskaninus/javascript-frameworks-CA",
     image: trendz,
   },
   {
@@ -44,7 +44,7 @@ const projects = [
     title: "Holidaze",
     lession: "Project Exam 2",
     description:
-      "The auction website project demonstrates the ability to integrate front-end development skills with API utilization, adhering to user stories, technical constraints, and project management practices. This project is build using Bootstrap and Sass. ",
+      "This venue booking website project demonstrates the ability to integrate front-end development skills with API utilization, adhering to user stories, technical constraints, and project management practices. This project is build using Bootstrap and styled-components. ",
     build: {
       bootstrap: false,
       sass: false,
@@ -53,8 +53,8 @@ const projects = [
       css: false,
       react: true,
     },
-    netlify: "",
-    github: "",
+    netlify: "https://holidaze-exam.netlify.app/",
+    github: "https://github.com/Ninuskaninus/ProjectExam2",
     image: holidaze,
   },
 ];
